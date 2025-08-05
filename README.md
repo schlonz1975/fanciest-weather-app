@@ -1,5 +1,3 @@
-Let me help you create a README.md based on your weather application code.
-
 ```markdown
 # Fanciest Weather App
 
@@ -63,6 +61,4 @@ Make sure you have an active internet connection as the application requires acc
 ## License
 
 This project is open source and available under the MIT License.
-```
-This README.md provides a comprehensive overview of your weather application, including its features, setup instructions, and usage information. Would you like me to modify any section or add additional information?
-```
+
