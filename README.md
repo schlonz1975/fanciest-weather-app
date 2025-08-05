@@ -1,4 +1,3 @@
-```markdown
 # Fanciest Weather App
 
 A simple yet fancy command-line weather application that provides current temperature information for any location worldwide.
@@ -22,9 +21,6 @@ A simple yet fancy command-line weather application that provides current temper
 ```bash
 pip install requests
 ```
-```
-
-
 ## Usage
 
 Run the script:
